@@ -63,3 +63,6 @@ Example:
 1. Try Naive Bayes-classifier with BoW
   - Naive Bayes (Gaussian) did perform comparable to RF, but worse than SVM
   - With FastText it performed poorly
+
+# LINK
+ - https://ieeexplore.ieee.org/document/9835776
