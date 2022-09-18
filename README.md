@@ -67,4 +67,4 @@ Example:
 # LINK
  - https://ieeexplore.ieee.org/document/9835776
  
- <img src= 'https://img.shields.io/badge/Bash-v1.0-brightgreen' />
+ <img src= 'https://img.shields.io/badge/Version-v1.0-brightgreen' />
