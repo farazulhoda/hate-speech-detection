@@ -1,0 +1,19 @@
+{
+  "name": "hate-speech-detection",
+  "version": "1.0.0",
+  "description": "This project is based on detecting \"hate-speech\" of any kind of communication that disparages someone or a group of people because of their qualities, such as religion, ethnicity, sexual orientation or gender.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farazulhoda/hate-speech-detection.git"
+  },
+  "author": "Farazul Hoda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farazulhoda/hate-speech-detection/issues"
+  },
+  "homepage": "https://github.com/farazulhoda/hate-speech-detection#readme"
+}
